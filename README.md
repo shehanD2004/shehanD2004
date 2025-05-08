@@ -17,6 +17,3 @@ A passionate software engineer dedicated to crafting robust and efficient applic
 I'm  passionate Software Engineering undergraduate focused on building real-world applications. I’m currently learning Java, Spring Boot, and web development, with growing interests in AI, digital electronics, and mathematics. I enjoy working on projects that solve real problems and exploring how technology can create value.
 
 > I'm currently exploring the intersection of backend development with Spring Boot and building dynamic front-end experiences using React. I'm also keen on leveraging Python for data analysis and automation tasks.
-
-**Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([your-twitter-url](https://x.com/Shehan_Dilhara1))
