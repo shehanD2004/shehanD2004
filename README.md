@@ -14,6 +14,4 @@ A passionate software engineer dedicated to crafting robust and efficient applic
 
 **About Me:**
 
-I'm  passionate Software Engineering undergraduate focused on building real-world applications. I’m currently learning Java, Spring Boot, and web development, with growing interests in AI, digital electronics, and mathematics. I enjoy working on projects that solve real problems and exploring how technology can create value.
-
-> I'm currently exploring the intersection of backend development with Spring Boot and building dynamic front-end experiences using React. I'm also keen on leveraging Python for data analysis and automation tasks.
+I'm  passionate Software Engineering undergraduate focused on building real-world applications. I’m currently learning Java, Spring Boot, and web development, with growing interests in AI, digital electronics. I enjoy working on projects that solve real problems and exploring how technology can create value.
