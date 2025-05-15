@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Shehan!
 
-A passionate software engineer dedicated to crafting robust and efficient applications. I enjoy leveraging a diverse range of technologies to solve complex problems and build impactful solutions.
-
 **My Tech Stack:**
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
