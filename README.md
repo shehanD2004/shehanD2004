@@ -12,4 +12,4 @@
 
 **About Me:**
 
-I'm  passionate Software Engineering undergraduate focused on building real-world applications. I’m currently learning Java, Spring Boot, and web development, with growing interests in AI, digital electronics. I enjoy working on projects that solve real problems and exploring how technology can create value.
+I'm  passionate Information & Technology undergraduate focused on building real-world applications. I’m currently learning Java, Spring Boot, and web development, with growing interests in AI, digital electronics. I enjoy working on projects that solve real problems and exploring how technology can create value.
