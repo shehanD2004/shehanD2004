@@ -11,4 +11,4 @@
 
 **About Me:**
 
-I'm  passionate Information & Technology undergraduate focused on building real-world applications. I’m currently learning Java, Python, Spring Boot and web development, with growing interests in AI, digital electronics. I enjoy working on projects that solve real problems and exploring how technology can create value.
+Information Technology undergraduate passionate about building practical, real-world applications. I work primarily with Java, Python, and Spring Boot, focusing on backend and web development. Currently exploring AI concepts and digital electronics to broaden my problem-solving toolkit. I enjoy turning ideas into usable software that delivers real value.
