@@ -2,8 +2,8 @@
 
 **My Tech Stack:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -11,4 +11,5 @@
 
 **About Me:**
 
-Information Technology undergraduate passionate about building practical, real-world applications. I work primarily with Python, Java, and JavaScript focusing on AI/ML and Fullstack Development. Currently exploring AI concepts and digital electronics to broaden my problem-solving toolkit. I enjoy turning ideas into usable software solutions that delivers real value.
+Information Technology undergraduate passionate about building practical, real-world applications. I work primarily with Java, Python, and JavaScript, focusing on AI/ML, Fullstack Development, and DevOps. Currently exploring AI concepts, DevOps practices, and digital electronics to broaden my problem-solving toolkit. I enjoy turning ideas into usable software solutions that deliver real value.
+
